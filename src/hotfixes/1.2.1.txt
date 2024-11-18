@@ -1,0 +1,1 @@
+Fix rounding regression in 1.2.0
